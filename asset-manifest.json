@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todoList-practice3-itcb/static/css/main.c727d8d6.css",
+    "main.js": "/todoList-practice3-itcb/static/js/main.fb7bc4e9.js",
+    "index.html": "/todoList-practice3-itcb/index.html",
+    "main.c727d8d6.css.map": "/todoList-practice3-itcb/static/css/main.c727d8d6.css.map",
+    "main.fb7bc4e9.js.map": "/todoList-practice3-itcb/static/js/main.fb7bc4e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c727d8d6.css",
+    "static/js/main.fb7bc4e9.js"
+  ]
+}
